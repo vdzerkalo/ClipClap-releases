@@ -1,11 +1,11 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZVo4Y2VzL25XNVZHQ3kwRVpHQXlnY2JSRy9hNkpVU2tqRVhFSDF2bVR1anBMRG5MTy9EZk5FNzRDY0IzWVB5WjArQlpYZWVUcDhWcFBJek9UZ1RCOVhCMDM0dlJrWWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODMwNDE5CWZpbGU6Q2xpcENsYXBfMC40LjBfeDY0LXNldHVwLmV4ZQowTmF2WnRZZDZVVGtsalc5VkwvKy9ZY1luTWF4SkZTdXoyRVQxVG11TExhckhZNWNLa0Jpd1VmbHFLb3ZxdTVLVXMrTGx6eVZ0SHdiV2RzR25JYWVEdz09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/vdzerkalo/ClipClap-releases/main/ClipClap_0.4.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZVo4Y2VzL25XNVZON2FyWGE3OXNhOWhveDkwR25IaG1wd0hUYzNRRFI5VVQzNVhTTkFsejl0REs2bkkxaU5sd3ZZSW55NTF1ZkozelhHeWJ3VlNwTzRkSExNMDg1NGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODMzMTEzCWZpbGU6Q2xpcENsYXBfMC40LjFfeDY0LXNldHVwLmV4ZQpRa2ZnQW5WRmRMVk9SNzAwdXpPeTVIV2p4U1VIT2t3SEFGR3ZGTDI3OVNHQlhiZmhVaTZsb3hGTjF0VitPelFsaUl4UWJFTVAyRFlYSG40RlNwNFFDdz09Cg==",
+                                             "url":  "https://raw.githubusercontent.com/vdzerkalo/ClipClap-releases/main/ClipClap_0.4.1_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-15T07:34:35Z",
-    "version":  "0.4.0",
-    "notes":  "ClipClap 0.4.0"
+    "pub_date":  "2026-05-15T08:19:04Z",
+    "version":  "0.4.1",
+    "notes":  "ClipClap 0.4.1"
 }
